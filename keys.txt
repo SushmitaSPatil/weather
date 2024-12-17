@@ -1,0 +1,2 @@
+apiKey ="2e71e7cc4097a4def448f8da701ac0bd";
+apiUrl="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
